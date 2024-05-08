@@ -1,0 +1,9 @@
+.journal-list{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.journal-list__p{
+    font-size: 14px;
+    color: rgb(169, 169, 164);
+}
